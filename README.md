@@ -1,6 +1,6 @@
 # Unsupervised-Learning-Machine-Learning
-# Pridicting Heart Disease by using Principal Component Analysis (PCA)
-# About Dataset
+Pridicting Heart Disease by using Principal Component Analysis (PCA)
+About Dataset
 
 # The dataset contains the following features:
 
